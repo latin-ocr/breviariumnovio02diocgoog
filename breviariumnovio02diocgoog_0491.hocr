@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./breviariumnovio02diocgoog_0491.png"; bbox 0 0 2317 5309; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 809 825 2168 1071">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 809 825 2168 1071">
+     <span class='ocr_line' id='line_1_1' title="bbox 980 825 2168 920; baseline 0.003 -12"><span class='ocrx_word' id='word_1_1' title='bbox 980 825 1229 920; x_wconf 60' lang='grc' dir='ltr'>υῑῑξῖίἔ</span> <span class='ocrx_word' id='word_1_2' title='bbox 1262 825 1611 907; x_wconf 58' lang='lat' dir='ltr'>Beneficium</span> <span class='ocrx_word' id='word_1_3' title='bbox 1681 827 1959 908; x_wconf 63' lang='grc' dir='ltr'>ἶιῐίιῇἔιίἷέ</span> <span class='ocrx_word' id='word_1_4' title='bbox 1970 829 2168 911; x_wconf 66' lang='grc' dir='ltr'>ἱιίιῖιὶξ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 977 915 2168 999; baseline 0.003 -19"><span class='ocrx_word' id='word_1_5' title='bbox 977 921 1210 995; x_wconf 58' lang='lat' dir='ltr'>aliquod</span> <span class='ocrx_word' id='word_1_6' title='bbox 1279 915 1628 999; x_wconf 45' lang='lat' dir='ltr'>Ecclefia‘lstiffi</span> <span class='ocrx_word' id='word_1_7' title='bbox 1682 919 1957 993; x_wconf 59' lang='lat' dir='ltr'><strong>receperit</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1990 968 2011 994; x_wconf 87' lang='lat'><strong>,</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 2066 922 2168 983; x_wconf 83' lang='lat' dir='ltr'>refl</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 809 991 2168 1071; baseline 0.001 -9"><span class='ocrx_word' id='word_1_10' title='bbox 809 1016 940 1062; x_wconf 80' lang='lat' dir='ltr'>cum</span> <span class='ocrx_word' id='word_1_11' title='bbox 965 995 1198 1070; x_wconf 70' lang='lat' dir='ltr'>adeptus</span> <span class='ocrx_word' id='word_1_12' title='bbox 1210 991 1323 1071; x_wconf 80' lang='lat' dir='ltr'>est,</span> <span class='ocrx_word' id='word_1_13' title='bbox 1343 993 1457 1058; x_wconf 80' lang='lat' dir='ltr'>five</span> <span class='ocrx_word' id='word_1_14' title='bbox 1482 1012 1613 1055; x_wconf 84' lang='lat' dir='ltr'>cum</span> <span class='ocrx_word' id='word_1_15' title='bbox 1679 993 1818 1058; x_wconf 82' lang='lat' dir='ltr'>sciat</span> <span class='ocrx_word' id='word_1_16' title='bbox 1843 994 2168 1063; x_wconf 63' lang='lat' dir='ltr'>obnbxium</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 152 818 2174 2546">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 152 818 2174 2546">
+     <span class='ocr_line' id='line_1_4' title="bbox 152 818 2174 2546; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 152 818 2174 2546; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
